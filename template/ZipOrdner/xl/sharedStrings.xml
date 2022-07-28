@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="6" uniqueCount="6">
+    <si>
+        <t>BMW</t>
+    </si>
+    <si>
+        <t>Opel</t>
+    </si>
+    <si>
+        <t>VW</t>
+    </si>
+    <si>
+        <t>Häufigkeit</t>
+    </si>
+    <si>
+        <t>male</t>
+    </si>
+    <si>
+        <t>female</t>
+    </si>
+</sst>
